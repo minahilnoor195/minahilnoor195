@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Manahil 👋
 
-<!--
-**minahilnoor195/minahilnoor195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Frontend Developer 💻
 
-Here are some ideas to get you started:
+I love turning ideas and designs into clean, responsive, and user-friendly web interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks & Libraries:** React, Tailwind CSS
+- **Tools:** Git, GitHub, VS Code, Figma
+
+### 🌱 Currently
+- Building frontend projects and improving my skills
+- Learning more about performance and accessibility
+
+### 📫 Connect with me
+- LinkedIn: [your-link-here]
+- Email: [your-email-here]
+
+---
+⭐ Thanks for visiting my profile!
